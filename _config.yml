@@ -1,0 +1,11 @@
+theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+title: AZ 204 Exam notes
+description: References Notes and links for AZ 204 exam.
+nav_order: 4
